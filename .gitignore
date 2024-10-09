@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+data/petition.csv
+data/climate_data/petition_climate.csv
+data/neutral_data/petition_neutral.csv
+thesis_proposal/*
+Makefile
+eda_img/*
