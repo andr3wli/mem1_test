@@ -26,7 +26,7 @@ Similarly, the data for this is extremely messy and wide again. The messy data l
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/andr3wli/mem1_test/raw/main/img/gif/redraw.gif" alt="redraw gif" style="max-width: 45%;"/>
-    <img src="eda_img/redraw_neutral.png" alt="redraw_neutral" style="max-width: 45%;"/>
+    <img src="img/redraw_neutral.png" alt="redraw_neutral" style="max-width: 45%;"/>
 </div>
 
 
